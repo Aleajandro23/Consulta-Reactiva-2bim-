@@ -1,0 +1,5 @@
+[debug] Created transactional ClassFileManager with tempDir = D:\Informacion\Documents\rubencis\PROG FUN Y REAC\wiki2bim\Consulta-Reactiva-2bim-\investigacion2bim\project\target\scala-2.12\sbt-1.0\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Created transactional ClassFileManager with tempDir = D:\Informacion\Documents\rubencis\PROG FUN Y REAC\wiki2bim\Consulta-Reactiva-2bim-\investigacion2bim\project\target\scala-2.12\sbt-1.0\classes.bak
+[debug] Removing the temporary directory used for backing up class files: D:\Informacion\Documents\rubencis\PROG FUN Y REAC\wiki2bim\Consulta-Reactiva-2bim-\investigacion2bim\project\target\scala-2.12\sbt-1.0\classes.bak
